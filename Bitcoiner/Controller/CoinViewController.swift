@@ -1,6 +1,6 @@
 import UIKit
 
-class CoinViewController {
+class CoinViewController: UIViewController {
 
   @IBOutlet weak var bitcoinLabel: UILabel!
   @IBOutlet weak var currencyLabel: UILabel!
